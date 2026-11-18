@@ -2,6 +2,10 @@
 
 Challenge 2: Answer UI with Trust & Provenance. A frontend-only prototype for asking a question, inspecting the evidence, and understanding what is missing.
 
+## Demo
+
+A short walkthrough of the prototype is included in [wand-demo.mp4](wand-demo.mp4).
+
 ## Run locally
 
 Requires Node.js 22+ and npm. Tested with Node.js 24.
