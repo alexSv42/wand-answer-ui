@@ -4,7 +4,9 @@ Challenge 2: Answer UI with Trust & Provenance. A frontend-only prototype for as
 
 ## Demo
 
-<video src="https://github.com/alexSv42/wand-answer-ui/raw/main/wand-demo.mp4" controls width="100%"></video>
+https://github.com/alexSv42/wand-answer-ui/releases/download/v1.0.0/wand-demo.mp4
+
+[▶ Watch the demo on the Releases page](https://github.com/alexSv42/wand-answer-ui/releases/tag/v1.0.0) if the embedded player does not load.
 
 ## Run locally
 
